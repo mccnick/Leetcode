@@ -11,16 +11,6 @@ import java.util.Map;
  * - You can return the answer in any order.
  */
 
-/*
- * Steps to solve.
- * 
- * Understand the problem: The Two Sum problem asks us to find two numbers in an array that add up to a given target value.
- * 
- * Plan the solution: To solve the problem, we need to iterate through the array and for each element, 
- * check if the difference between the target value and the current element exists in the array.
- * If it does, we have found the two numbers that add up to the target value.
- */
-
 public class twoSum
 {
 	public static int[] twoSumSolution(int[] nums, int target)
