@@ -62,10 +62,10 @@ public class numberOfIslands
 		grid[i][j] = '0'; 
 
 		// call the method for up, down, left, right
-		callBFS(grid, i + 1, j); // up
-		callBFS(grid, i - 1, j); // down
-		callBFS(grid, i, j - 1); // left
-		callBFS(grid, i, j + 1); // right
+		callBFS(grid, i + 1, j);
+		callBFS(grid, i - 1, j);
+		callBFS(grid, i, j - 1);
+		callBFS(grid, i, j + 1);
 	}
 
 	// -------------------- chatGPT QUICK TESTS --------------------
