@@ -47,4 +47,11 @@ public class twoSum
 		int[] result3 = twoSumSolution(nums3, target3); // run method with these variables
 		System.out.println(Arrays.toString(result3)); // [0, 1] 3 + 3 add up to 6 etc
 	}
+	
+	/*
+	 * -----CONSOLE OUTPUT-----
+	 * [0, 1]
+	 * [1, 2]
+	 * [0, 1]
+	 */
 }
