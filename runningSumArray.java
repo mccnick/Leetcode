@@ -37,5 +37,16 @@ public class runningSumArray
 		int[] result5 = runningSum(nums5);
 		System.out.println(Arrays.toString(result5)); // should print [1]
 	}
+	
+	/*
+	 * CONSOLE OUTPUT:
+	 * 
+	 * [1, 3, 6, 10, 15]
+	 * [0, 0, 0, 0, 0]
+	 * [2, 6, 12, 20, 30]
+	 * [-1, -1, 0]
+	 * [1]
+	 *
+	 */
 
 }
