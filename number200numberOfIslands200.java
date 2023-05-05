@@ -1,6 +1,6 @@
 package leetcodePractice;
 
-public class numberOfIslands200
+public class number200numberOfIslands
 {
 
 	/*
