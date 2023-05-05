@@ -1,6 +1,6 @@
 package easy;
 
-public class palindromeNumber9
+public class number9palindromeNumber
 {
 
 	/*
