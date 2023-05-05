@@ -1,6 +1,6 @@
 package easy;
 
-public class findPivotIndex724
+public class number724findPivotIndex
 {
 	/*
 	 * Given an array of integers nums, calculate the pivot index of this array.
