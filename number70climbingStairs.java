@@ -16,7 +16,7 @@ package easy;
  * 
  */
 
-public class climbingStairs
+public class number70climbingStairs
 {
 
 	public int climbStairs(int n) 
