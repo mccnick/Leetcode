@@ -19,7 +19,7 @@ import java.util.Arrays;
  * 
  */
 
-public class plusOne
+public class plusOne66
 {
 	public int[] Solution(int[] digits)
 	{
