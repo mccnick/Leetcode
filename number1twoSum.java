@@ -11,7 +11,7 @@ import java.util.Map;
  * - You can return the answer in any order.
  */
 
-public class twoSum
+public class number1twoSum
 {
 	public static int[] twoSumSolution(int[] nums, int target)
 	{
